@@ -24,13 +24,9 @@ Here’s a step-by-step guide to getting started with the SFML installer.
 
 &nbsp;
 
-&nbsp;
-
 - Next, download the **`SFML-Installer.exe`** file from the latest release under the **`Assets`** section.
 
 ![Screenshot](https://raw.githubusercontent.com/SHARKgamestudio/SFML-Installer/refs/heads/main/_Github/Tutorial1.png)
-
-&nbsp;
 
 &nbsp;
 
@@ -40,8 +36,28 @@ Here’s a step-by-step guide to getting started with the SFML installer.
 
 &nbsp;
 
-&nbsp;
-
 - Follow the installation process and ensure the path is inside your [**`visual studio documents`**](https://telegra.ph/VS-Documents-Directory-01-04) directory.
 
 ![Screenshot](https://raw.githubusercontent.com/SHARKgamestudio/SFML-Installer/refs/heads/main/_Github/Tutorial3.png)
+
+&nbsp;
+
+- When creating a new project, you should now find a Visual Studio project template named **`SFML Application`**.
+
+![Screenshot](https://raw.githubusercontent.com/SHARKgamestudio/SFML-Installer/refs/heads/main/_Github/Tutorial4.png)
+
+&nbsp;
+
+- That's it! Now, enjoy your freshly created project! :)
+
+![Screenshot](https://raw.githubusercontent.com/SHARKgamestudio/SFML-Installer/refs/heads/main/_Github/Tutorial5.png)
+
+&nbsp;
+
+## What Now ?
+If you like this repository, please give it a star.
+
+At 60 stars, I'll make this project fully open-source.
+
+#### Progress :
+![](https://raw.githubusercontent.com/SHARKgamestudio/SFML-Installer/refs/heads/main/_Github/ProgressBar.png)
