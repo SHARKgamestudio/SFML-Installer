@@ -18,7 +18,9 @@ Here’s a step-by-step guide to getting started with the SFML installer.
 
 ![Screenshot](https://raw.githubusercontent.com/SHARKgamestudio/SFML-Installer/refs/heads/main/_Github/Tutorial0.png)
 
-___
+&nbsp;
+
+&nbsp;
 
 - Next, download the **`SFML-Installer.exe`** file from the latest release under the **`Assets`** section.
 
