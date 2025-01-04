@@ -37,3 +37,11 @@ Here’s a step-by-step guide to getting started with the SFML installer.
 - Run the exe. SmartScreen may warn it's dangerous, but it's not—I just can't afford a Microsoft certificate.
 
 ![Screenshot](https://raw.githubusercontent.com/SHARKgamestudio/SFML-Installer/refs/heads/main/_Github/Tutorial2.png)
+
+&nbsp;
+
+&nbsp;
+
+- Follow the installation process and ensure the path is inside your [**`visual studio documents`**](https://telegra.ph/VS-Documents-Directory-01-04) directory.
+
+![Screenshot](https://raw.githubusercontent.com/SHARKgamestudio/SFML-Installer/refs/heads/main/_Github/Tutorial3.png)
