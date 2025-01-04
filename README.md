@@ -34,6 +34,6 @@ Here’s a step-by-step guide to getting started with the SFML installer.
 
 &nbsp;
 
-- Run the downloaded exe. SmartScreen may warn it's dangerous, but it's not—I just can't afford a Microsoft certificate.
+- Run the executable. SmartScreen may warn it's dangerous, but it's not—I just can't afford a Microsoft certificate.
 
 ![Screenshot](https://raw.githubusercontent.com/SHARKgamestudio/SFML-Installer/refs/heads/main/_Github/Tutorial2.png)
